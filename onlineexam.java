@@ -126,7 +126,7 @@ public class onlineexam {
     }
     //public classonlineExamination{
     public static void main(String[]args){
-        exam can=new exam();
+        onlineexam can=new onlineexam();
         can.login();
         can.menu();
     }
